@@ -1,0 +1,23 @@
+print("5 + 5")
+print("10 + 5")
+print("20 + 2")
+print("15 + 3")
+print("9 + 6")
+
+print("10 - 9")
+print("5 - 3")
+print("9 - 6")
+print("10 - 4")
+print("8 - 2")
+
+print("5 * 5")
+print("3 * 4")
+print("4 * 4")
+print("5 * 7")
+print("8 * 9")
+
+print("10 / 2")
+print("9 / 3")
+print("6 / 2")
+print("8 / 4")
+print("20 / 5")
