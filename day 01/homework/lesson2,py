@@ -7,7 +7,7 @@ print(name)
 
 name = "saba"#არის (string) str
 age = 14 #ეს არის int (integer) მთელი რიცხვი
-height = 168 # float 
+height = 168 # float (ათწილადი)
 #boolean (bool)
 
 knows_programing = True #True ან False

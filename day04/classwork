@@ -1,0 +1,20 @@
+# salary = 10000
+# age - 15
+# role = analyst
+# print(salary)
+
+
+salary = 10000
+age = "15"
+role = "analyst"
+print(salary)
+
+
+num1= 10
+num2= 14
+result= num1 + num2
+print(result)
+
+
+
+#Debbuging --> შეცდომების შესწორება
